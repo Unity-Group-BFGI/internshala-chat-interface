@@ -407,8 +407,8 @@ export default function ChatInterface() {
             exit={{ x: isMobile ? "40%" : 20, opacity: 0 }}
             transition={{ duration: 0.3 }}
             className={`
-              w-[40%] border-l border-gray-200 bg-white
-              ${isMobile ? "fixed right-0 top-0 bottom-0 z-30" : "absolute right-0 top-0 bottom-0 z-10 h-full"}
+              border-l border-gray-200 bg-white
+              ${isMobile ? "fixed right-0 top-0 bottom-0 z-30 w-[60%]" : "absolute right-0 top-0 bottom-0 z-10 h-full w-[40%] "}
             `}
           >
             <SmartCopilot
