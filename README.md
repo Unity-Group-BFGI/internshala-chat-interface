@@ -206,7 +206,7 @@ If you have any questions or need help:
 
 ---
 
-**Built with ❤️ by our development team using Next.js and modern web technologies**
+**Built with ❤️ using Next.js and modern web technologies**
 \`\`\`
 
 ```typescriptreact file="components/ai-copilot.tsx" isDeleted="true" isMoved="true" isMovedTo="components/smart-copilot.tsx"
